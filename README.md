@@ -1,2 +1,2 @@
 # matalb-test
-used for matlab test
+## Matlib is used to solve the integral using Monte Carlo's algorithm
